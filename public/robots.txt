@@ -1,0 +1,15 @@
+User-agent: *
+
+Disallow: /posts/
+
+Disallow: /
+
+Disallow: /me/
+
+Disallow: /categories/
+
+Disallow: /categories/reward-modeling/
+
+Disallow: /tags/
+
+Disallow: /categories/uncategories/
